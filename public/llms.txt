@@ -1,6 +1,4 @@
-# מיינקראפט ישראלי פרוץ — Generative Engine Optimization Map
-
-> A Minecraft server listing website targeting Israeli players, featuring a Steve (Minecraft character) with a club as the background hero image. The site allows users to submit cracked (pirated) Minecraft server IPs and browse servers by category, including Survival servers for friends across Israel, PVP servers, Aternos servers, and other cracked server types. Each category has its own icon and dedicated section on the site.
+# Business — Generative Engine Optimization Map
 
 ---
 
@@ -28,22 +26,7 @@ Information about WCAG compliance and accessibility features.
 
 # Business Context (for LLM understanding)
 
-## About מיינקראפט ישראלי פרוץ
-A Minecraft server listing website targeting Israeli players, featuring a Steve (Minecraft character) with a club as the background hero image. The site allows users to submit cracked (pirated) Minecraft server IPs and browse servers by category, including Survival servers for friends across Israel, PVP servers, Aternos servers, and other cracked server types. Each category has its own icon and dedicated section on the site.
-
-## Services/Products
-- רישום שרתי מיינקראפט פרוצים לפי IP
-- קטגוריית שרתי Survival
-- קטגוריית שרתי PVP
-- קטגוריית שרתי Aternos
-- קטגוריות נוספות לסוגי שרתים שונים
-
-## Target Audience
-שחקני מיינקראפט ישראלים המחפשים שרתים פרוצים
-
-## Industry
-גיימינג / מיינקראפט
-
+## About Business
 ---
 
 # Additional Resources
