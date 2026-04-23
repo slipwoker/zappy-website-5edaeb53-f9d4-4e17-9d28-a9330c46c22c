@@ -1,35 +1,52 @@
-# Business — Generative Engine Optimization Map
+# מיינקראפט ישראלי פרוץ — Generative Engine Optimization Map
+
+> A Minecraft server listing website targeting Israeli players, featuring a Steve (Minecraft character) with a club as the background hero image. The site allows users to submit cracked (pirated) Minecraft server IPs and browse servers by category, including Survival servers for friends across Israel, PVP servers, Aternos servers, and other cracked server types. Each category has its own icon and dedicated section on the site.
 
 ---
 
 ## Pages
 
 ### בית
-https://example.com
+https://minecraft-israeli-parutz.zappy5.app
 A Minecraft server listing website targeting Israeli players, featuring a Steve (Minecraft character) with a club as the background hero image. The site allows 
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://example.com/privacy
+https://minecraft-israeli-parutz.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://example.com/terms
+https://minecraft-israeli-parutz.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://example.com/accessibility
+https://minecraft-israeli-parutz.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
 
 # Business Context (for LLM understanding)
 
-## About Business
+## About מיינקראפט ישראלי פרוץ
+A Minecraft server listing website targeting Israeli players, featuring a Steve (Minecraft character) with a club as the background hero image. The site allows users to submit cracked (pirated) Minecraft server IPs and browse servers by category, including Survival servers for friends across Israel, PVP servers, Aternos servers, and other cracked server types. Each category has its own icon and dedicated section on the site.
+
+## Services/Products
+- רישום שרתי מיינקראפט פרוצים לפי IP
+- קטגוריית שרתי Survival
+- קטגוריית שרתי PVP
+- קטגוריית שרתי Aternos
+- קטגוריות נוספות לסוגי שרתים שונים
+
+## Target Audience
+שחקני מיינקראפט ישראלים המחפשים שרתים פרוצים
+
+## Industry
+גיימינג / מיינקראפט
+
 ---
 
 # Additional Resources
 
-- **Sitemap**: https://example.com/sitemap.xml
-- **Robots.txt**: https://example.com/robots.txt
+- **Sitemap**: https://minecraft-israeli-parutz.zappy5.app/sitemap.xml
+- **Robots.txt**: https://minecraft-israeli-parutz.zappy5.app/robots.txt
